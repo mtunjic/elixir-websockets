@@ -10,7 +10,7 @@ defmodule ElixirWs.WsHandler do
   end
   
   defp send_messages(process) do
-    :panding
+    :todo
   end
   
   
